@@ -13,7 +13,7 @@ function getTextNodes(node) {
 }
 
 const toggleFeatureButtons = [
-  // ...list of feature button objects...
+  //  ...list of feature button objects...
 
   { id: "toggle-kern", feature: '"kern" 1' },
   { id: "toggle-ligatures", feature: '"liga" 1' },

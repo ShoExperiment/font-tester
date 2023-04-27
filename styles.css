@@ -94,7 +94,7 @@ body {
 }
 
 .feature-toggle {
-  /* Common styles for the feature toggle buttons */
+  /* Common styles for the feature toggle buttons  */
 }
 
 .feature-toggle[data-state="off"] {

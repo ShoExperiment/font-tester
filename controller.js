@@ -1,15 +1,15 @@
 
 
 
-  	    const fontFileInput = document.getElementById('font-file');
-  	    const fontSelect = document.getElementById('font-select');
-  	    const editableText = document.getElementById('editable-text');
-  	    const fontSizeSlider = document.getElementById('font-size-slider');
-  	    const fontSizeValue = document.getElementById('font-size-value');
-  	    const lineHeightSlider = document.getElementById('line-height-slider');
-  	    const lineHeightValue = document.getElementById('line-height-value');
-  	    const letterSpacingSlider = document.getElementById('letter-spacing-slider');
-  	    const letterSpacingValue = document.getElementById('letter-spacing-value');
+  	const fontFileInput = document.getElementById('font-file');
+  	const fontSelect = document.getElementById('font-select');
+  	const editableText = document.getElementById('editable-text');
+  	const fontSizeSlider = document.getElementById('font-size-slider');
+  	const fontSizeValue = document.getElementById('font-size-value');
+  	const lineHeightSlider = document.getElementById('line-height-slider');
+  	const lineHeightValue = document.getElementById('line-height-value');
+  	const letterSpacingSlider = document.getElementById('letter-spacing-slider');
+  	const letterSpacingValue = document.getElementById('letter-spacing-value');
   
 
     function wrapIndividualChars(styleProp, value) {

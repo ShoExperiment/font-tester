@@ -6,5 +6,4 @@ document.addEventListener("DOMContentLoaded", () => {
     drawer.classList.toggle("open");
   });
 
-  // Rest of the code
 });
