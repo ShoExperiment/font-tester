@@ -1,10 +1,10 @@
 # Font Tester
 
-This font tester is made by ChatGPT. 
-I have no idea what is going on in the scripts.
-The only things that I did were ask it what I want.
-Whenever I encountered issues throw everything to it and then followed the instructions that it gave me...
-I can not guarantee anything and I do not declare anything for the codes but feel free to use them. (It seems working:-))
+This font tester is made by ChatGPT.  
+I have no idea what is going on in the scripts.  
+The only things that I did were ask it what I want.  
+Whenever I encountered issues throw everything to it and then followed the instructions that it gave me...  
+I can not guarantee anything and I do not declare anything for the codes but feel free to use them. (It seems working:-))  
 
 
 
